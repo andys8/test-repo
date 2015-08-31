@@ -1,3 +1,3 @@
 # test-repo
-Repo is a test
 
+But here is my [Whisky Site](http://whisky-deals.de/index.html)
